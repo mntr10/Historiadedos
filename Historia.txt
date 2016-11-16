@@ -8,4 +8,4 @@ Toda la clase tiene ganas de seguir con git, pero ahora empezamos con Lenguaje d
 En principio tengo que seguir con la historia por segunda vez y hacer un segundo commit, 
 así que ahí vamos, a por el segundo commit.
 
-
+No sabíamos como seguir y vino Juan a ayudarnos...
