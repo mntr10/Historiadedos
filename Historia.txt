@@ -9,3 +9,6 @@ En principio tengo que seguir con la historia por segunda vez y hacer un segundo
 así que ahí vamos, a por el segundo commit.
 
 No sabíamos como seguir y vino Juan a ayudarnos...
+
+En principio mi compañero ha agregado un parrafo más y yo tengo que añadir
+un par de lineas mas. Hemos editado para arreglar el conflicto.
