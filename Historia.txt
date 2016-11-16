@@ -2,7 +2,10 @@ Erase una vez......
 un cuento....
 infinito.
 
+No sabemos que escribir por lo que seguiremos inventado cosas sin sentido.
+Toda la clase tiene ganas de seguir con git, pero ahora empezamos con Lenguaje de marcas.
 
-
+En principio tengo que seguir con la historia por segunda vez y hacer un segundo commit, 
+así que ahí vamos, a por el segundo commit.
 
 
