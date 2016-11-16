@@ -18,10 +18,16 @@ un par de lineas mas. Hemos editado para arreglar el conflicto.
 Hemos empezado otra historia diferente, nos encontramos en clase de entornos....
 
 
-Pues nada, seguimos escribiendo historias sin sentido para practicar con github, en principio tenemos que hacer un par de rebase....
+Pues nada, seguimos escribiendo historias sin sentido para practicar con github, en
+principio tenemos que hacer un par de rebase....
 
 
-=============================================================
 
 A partir de aqui estamos creando unas nuevas ramas y despues las uniremos.
+
 Este es el primer commit de la segunda parte del proyecto
+
+Este es mi segundo commit que realizn en la segunda parte del proyecto.
+
+
+Este es mi segundo commit que hago en la segunda parte del proyecto
