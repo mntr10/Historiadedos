@@ -38,3 +38,6 @@ Pues nada, seguimos escribiendo historias sin sentido para practicar con github,
 principio tenemos que hacer un par de rebase....
 
 Algo
+
+A partir de aqui estamos creando unas nuevas ramas y despues las uniremos.
+
